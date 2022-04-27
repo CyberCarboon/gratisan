@@ -1,7 +1,17 @@
 # gratisan
 ***SC UNTUK MENDAPATKAN TOKEN FACEBOOK GRATIS,OPEN SOURCECODE***
 
-<img src="https://github.com/CyberCarboon/gratisan/blob/main/Screenshot_20220427_182937.jpg
+<h1 align="center">
+  TOKEN FACEBOOK
+</h1>
+</div>
+<p align="center">
+  Made with  by <a href="https://github.com/CyberCarboon">Feri Pratama</a>
+</p>
+<p align="center">
+ 
+### Menu
+ <img src="https://github.com/CyberCarboon/crackFB/blob/main/Screenshot_20220427_182937.jpg
 " width="440" title="Menu" alt="Menu">
 </p>
 
@@ -19,14 +29,10 @@
 
  ***pkg install git***
 
- ***git clone https://github.com/CyberCarboon/gratisan
+    git clone https://github.com/CyberCarboon/gratisan
 
 # Menjalankan
 
  ***cd gratisan***
 
  ***python IP.py***
-
-## WhatsApp
-<b>• [WhatsApp](https://api.whatsapp.com/send?phone=+62882-2534-9583&text=Saya Dari GitHub CyberCarboon)</b>
-<br>
