@@ -11,8 +11,7 @@
 <p align="center">
  
 ### Menu
- <img src="https://github.com/CyberCarboon/crackFB/blob/main/Screenshot_20220427_182937.jpg
-" width="440" title="Menu" alt="Menu">
+ <img src="https://github.com/CyberCarboon/gratisan/blob/main/menutoken.jpg" width="440" title="Menu" alt="Menu">
 </p>
 
 # Install
@@ -29,7 +28,7 @@
 
  ***pkg install git***
 
-    git clone https://github.com/CyberCarboon/gratisan
+ git clone https://github.com/CyberCarboon/gratisan
 
 # Menjalankan
 
